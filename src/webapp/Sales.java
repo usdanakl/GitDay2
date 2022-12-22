@@ -6,4 +6,5 @@ public class Sales {
     //20%
 
     //..
+    //more sales
 }
